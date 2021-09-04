@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-0308&show_icons=true&locale=en" alt="sneha-0308" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-0308&" alt="sneha-0308" /></p>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=BhuvaneshHingal&show_icons=true&theme=synthwave">
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuvaneshHingal&layout=compact&theme=solarized-light"> <br>
+  <img src="https://profile-counter.glitch.me/BhuvaneshHingal/count.svg">
+</p>
