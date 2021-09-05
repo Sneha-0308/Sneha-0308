@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Mathadawar</h1>
 <h3 align="center">Microsoft Learn Student Ambassador</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 💬 Ask me about **Java, Git**
 
