@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, 🙋‍♀️</h1>
 <h3 align="center">I'm Sneha Mathadawar</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/1600/1*_wxwNuxszA6vwQIUMbF-fw.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/1600/1*_wxwNuxszA6vwQIUMbF-fw.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smathadawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smathadawar" height="30" width="40" /></a>
