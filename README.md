@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="300px" src="https://cdn.dribbble.com/users/3374930/screenshots/11835911/media/6d1868449dee1e3d323bc3fb485a0ab6.gif">
+<img align="center" alt="Coding" width="100%" height="500px" src="https://cdn.dribbble.com/users/3374930/screenshots/11835911/media/6d1868449dee1e3d323bc3fb485a0ab6.gif">
 <h1 align="center">Hello World, 🙋‍♀️</h1>
 <h3 align="center">I'm Sneha Mathadawar</h3>
 <h3 align="left">Connect with me:</h3>
